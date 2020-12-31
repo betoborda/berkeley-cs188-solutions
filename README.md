@@ -7,3 +7,5 @@ Assignment 2: Multiagent https://github.com/temojudo/berkeley-cs188-solutions/bl
 Assignment 3: Reinforcement https://github.com/temojudo/berkeley-cs188-solutions/blob/master/reinforcement/P3-RL.pdf
 
 Assignment 4: Tracking https://github.com/temojudo/berkeley-cs188-solutions/blob/master/tracking/P4-Ghostbusters.pdf
+
+Assignment 5: Machine Learning https://github.com/temojudo/berkeley-cs188-solutions/blob/master/machinelearning/P5-ML.pdf
